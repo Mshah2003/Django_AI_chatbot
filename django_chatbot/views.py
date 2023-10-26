@@ -4,8 +4,7 @@ import openai
 
 # Create your views here.
 
-openai_api_key = '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'
-# openai_api_key = 'cmpl-7Aoqa4s48g3WBMdpPKadUdqtncPZ8'
+openai_api_key = 'sk-Cxxxxxxx9TYjEjlNNsT3BlbkFJQ2Oxxxxxxxxxxxxxxx'
 openai.api_key = openai_api_key
 
 def ask_openai(message):
